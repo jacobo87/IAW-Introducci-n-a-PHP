@@ -17,3 +17,4 @@ Vamos a realizar diversas prácticas con lenguaje de PHP. Los ejercicios estará
 
 ## REFERENCIAS
 - [José Juan Sánchez](https://josejuansanchez.org/iaw/practica-php/index.html#ejercicios---funciones)
+- [Jose Padilla - Práctica PHP](https://github.com/japsasir/iaw-practicas-php)
