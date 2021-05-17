@@ -12,6 +12,7 @@ Vamos a realizar diversas prácticas con lenguaje de PHP. Los ejercicios estará
 - Arrays y bucles
 - Funciones
 - Formularios
+- images
 
 ## REFERENCIAS
 - [José Juan Sánchez](https://josejuansanchez.org/iaw/practica-php/index.html#ejercicios---funciones)
