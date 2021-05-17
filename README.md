@@ -13,6 +13,7 @@ Vamos a realizar diversas prácticas con lenguaje de PHP. Los ejercicios estará
 - Funciones
 - Formularios
 - images
+- Script para contenedor Docker
 
 ## REFERENCIAS
 - [José Juan Sánchez](https://josejuansanchez.org/iaw/practica-php/index.html#ejercicios---funciones)
