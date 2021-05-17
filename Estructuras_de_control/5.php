@@ -6,7 +6,7 @@ Resuelva el ejercicio utilizando la estructura de control switch.
 Imágenes: Wikemedia Commons
 Nota: Usadas imagenes más pequeñas.*/
 $variable = rand(1,6);
-echo "Tu tirada: $variable";
+echo "Su tirada: $variable";
 echo "<br>";
 switch ($variable){
     case 1:
