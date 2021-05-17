@@ -5,5 +5,5 @@ Resuelva el ejercicio sin utilizar las estructuras de control if - else y switch
 
 $variable = rand(1,6);
 echo "<h1>Tu tirada: $variable</h1>";
-echo "<img src='./IAW-Introduccion-a-PHP/images/dados/$variable.png'>";
+echo "<img src='../images/dados/$variable.png'>";
 ?>
