@@ -22,7 +22,7 @@ for($i = 0; $i < $numero_de_monedas; $i++) {
 
 // Mostramos las monedas según el tipo escogido.
 switch ($tipo_moneda) {
-    case "Tibudolares":
+    case "StarWars":
         for ($i = 0; $i < $numero_de_monedas; $i++) {
             if ($lista[$i] == 0) {
                 echo "<img src='monedas/CARA.png'>";

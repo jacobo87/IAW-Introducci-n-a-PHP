@@ -11,7 +11,7 @@
     <form action="4recibe.php" method="GET">
         <input type="number" id="numero_de_monedas" name="numero_de_monedas">
         <select name="tipo_moneda">
-            <option value="Tibudolares">Tibudolares</option>
+            <option value="StarWars">StarWars</option>
             <option value="Euros">Euros</option>
         </select>
         <button type="submit">Enviar</button>
